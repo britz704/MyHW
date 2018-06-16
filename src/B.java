@@ -1,12 +1,4 @@
-/*#Include<stdio.h>
-int main()
-{
-printf("homework\n");
-getchar();
-getchar();
-retuen 0;
-}*/
-#include "stdafx.h"
+/*#include "stdafx.h"
 #include "stdio.h"
 #include "stdlib.h"
 #include "math.h"
@@ -30,4 +22,12 @@ int _tmain(int argc, _TCHAR* argv[])
 	getchar();
 	
 	return 0;
+} ¼öÁ¤Àü*/
+#Include<stdio.h>
+int main()
+{
+printf("homework\n");
+getchar();
+getchar();
+retuen 0;
 }
